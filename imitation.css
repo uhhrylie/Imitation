@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Futura';
+  src: url('path-to-font/ptcond.otf') format('opentype');
+  
+}
+body {
+
+}
+.product {
+  font-family: 'Futura', sans-serif;
+  font-size: 100px;
+  letter-spacing: -0.09em;
+  text-shadow: 10px 10px 0px #63090d;
+  -webkit-text-stroke: 0.3px #63090d;
+  color: #ffffff;
+  font-weight: bold;
+}
+.product b {
+  display: inline-block;
+  transform: scalex(0.9);
+  transform: scaley(1);
+}
+main {
+  
+  width: 546px;
+  height: 683px;
+  margin: auto;
+  background-color: #cf2027;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  max-height: 50%;
+
+  }
+
+
+  
+
+ 
+
+  
+
+
